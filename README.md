@@ -6,5 +6,4 @@ Checkout this amazing work done by me with the help of Dhaval sir (Codebasics) w
 I used an online tool (brightdata.com) for scrapping the required data from the very popular espncricinfo website.
 
 # Software requirement
-1. Notepad ++ (optional) - Has a good plugin for auto formating the json data
-2. Juypter notebook / Google Colab
+1. Juypter notebook / Google Colab
